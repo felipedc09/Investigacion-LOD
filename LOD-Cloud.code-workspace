@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "client"
+		},
+		{
+			"path": "server/LOD-server"
+		},
+		{
+			"path": "server/CKAN-server"
+		}
+	],
+	"settings": {}
+}
