@@ -1,0 +1,6 @@
+[submodule "LOD-server"]
+	path = LOD-server
+	url = git@github.com:felipedc09/LOD-server.git
+[submodule "LOD-client"]
+	path = LOD-client
+	url = git@github.com:felipedc09/LOD-client.git
